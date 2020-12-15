@@ -1,4 +1,4 @@
-### Hi there, I'm Bernardo 👋
+### [text-align:center] Hi there, I'm Bernardo 👋
 
 ## A Junior Full-Stack Web Developer from Lisbon
 - 🔭 I’m currently working on my Portfolio.
@@ -7,4 +7,4 @@
 - 💬 Ask me about everything.
 - ⚡ Fun fact: I need a job!
 <br />
-###Connect with me:
+### Connect with me:
