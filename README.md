@@ -1,4 +1,6 @@
-### Hi there, I'm Bernardo 👋
+<p>
+  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+</p>
 
 ## A Junior Full-Stack Web Developer from Lisbon
 
