@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/bernardo-de-melo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bernardodmelo@gmail.com?subject=Hey%20Bernardo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
-<br>
 ## Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
