@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm Bernardo 👋</b></h1>
 </p>
 
-<h5 align="center"><b>A Junior Full-Stack Web Developer from Lisbon</b></h5>
+<h3 align="center"><b>A Junior Full-Stack Web Developer from Lisbon</b></h3>
 <br>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
