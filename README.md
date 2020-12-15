@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
 
-# A Junior Full-Stack Web Developer from Lisbon
+<p> <b>A Junior Full-Stack Web Developer from Lisbon</b> </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
