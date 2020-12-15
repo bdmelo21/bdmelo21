@@ -10,6 +10,8 @@
 - 💬 Ask me about everything.
 - ⚡ Fun fact: I need a job!
 ### Connect with me:
+<a href="https://www.linkedin.com/in/bernardo-de-melo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:bernardodmelo@gmail.com?subject=Hey%20Bernardo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 <br>
 <br>
