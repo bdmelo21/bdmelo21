@@ -1,8 +1,8 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Bernardo 👋</b></h1>
 </p>
 
-<p> <b>A Junior Full-Stack Web Developer from Lisbon</b> </p>
+<p align="center"><b>A Junior Full-Stack Web Developer from Lisbon</b></p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
