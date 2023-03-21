@@ -1,8 +1,6 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Bernardo 👋</b></h1>
 </p>
-
-<h3 align="center"><b>A Digital Intelligence Developer @GCI</b></h3>
 <br>
 
 ## Languages and Tools: 
